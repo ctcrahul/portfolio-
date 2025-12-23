@@ -17,7 +17,7 @@ I enjoy turning ideas into smart, scalable, and visually engaging digital soluti
 ## 🌐 Live Demo
 
 🔗 Live Website:  
-(Deploy ke baad yahan apna Netlify link paste kar dena)
+https://rahulaiml.netlify.app/
 
 ---
 
